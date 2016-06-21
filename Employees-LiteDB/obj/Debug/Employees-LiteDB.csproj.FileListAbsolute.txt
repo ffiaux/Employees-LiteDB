@@ -1,0 +1,11 @@
+c:\users\ffiaux\documents\visual studio 2015\Projects\Employees-LiteDB\Employees-LiteDB\bin\Debug\IN_200_funcionarios.txt
+c:\users\ffiaux\documents\visual studio 2015\Projects\Employees-LiteDB\Employees-LiteDB\bin\Debug\Employees-LiteDB.exe.config
+c:\users\ffiaux\documents\visual studio 2015\Projects\Employees-LiteDB\Employees-LiteDB\bin\Debug\Employees-LiteDB.exe
+c:\users\ffiaux\documents\visual studio 2015\Projects\Employees-LiteDB\Employees-LiteDB\bin\Debug\Employees-LiteDB.pdb
+c:\users\ffiaux\documents\visual studio 2015\Projects\Employees-LiteDB\Employees-LiteDB\bin\Debug\LiteDB.dll
+c:\users\ffiaux\documents\visual studio 2015\Projects\Employees-LiteDB\Employees-LiteDB\obj\Debug\Employees-LiteDB.csprojResolveAssemblyReference.cache
+c:\users\ffiaux\documents\visual studio 2015\Projects\Employees-LiteDB\Employees-LiteDB\obj\Debug\Employees_LiteDB.Form1.resources
+c:\users\ffiaux\documents\visual studio 2015\Projects\Employees-LiteDB\Employees-LiteDB\obj\Debug\Employees_LiteDB.Properties.Resources.resources
+c:\users\ffiaux\documents\visual studio 2015\Projects\Employees-LiteDB\Employees-LiteDB\obj\Debug\Employees-LiteDB.csproj.GenerateResource.Cache
+c:\users\ffiaux\documents\visual studio 2015\Projects\Employees-LiteDB\Employees-LiteDB\obj\Debug\Employees-LiteDB.exe
+c:\users\ffiaux\documents\visual studio 2015\Projects\Employees-LiteDB\Employees-LiteDB\obj\Debug\Employees-LiteDB.pdb
